@@ -68,3 +68,38 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Setting up the Project Locally
+
+1. Clone the Repository: Clone the repository by entering the following command in your terminal or by simply downloading the zip file from github.
+
+ git clone https://github.com/Nayan1509/Personal-Bookshelf.git
+
+2. Navigate to the Project Directory: Once cloned the file open it in visual studio code or any IDE and navigate to the direcotory using "cd" command
+
+ cd Personal-Bookshelf
+
+3. Install Dependencies: Install the dependencies, node modules
+  
+   npm install
+
+This project has been set up locally and is ready to run on local machine.
+
+#### Running the Application Locally
+
+Once you have set up the project, you can run the application on your local machine with the following steps:
+
+1. Start the Development Server: start the developement server using npm command.
+  npm start
+
+2. Open the Application in Your Browser:
+  Once the development server starts, open your web browser and navigate to http://localhost:3000 (or another port if specified).
+
+3. Interact with the Application:
+  You can now interact with the application in your browser. If everything is set up correctly, you should see the home page of the application.
+
+#### Additional Notes
+Ensure that you have Node.js and npm installed on your system before setting up the project.
+Make sure that the necessary environment variables or configuration files (if any) are properly set up before running the application.  
+ 
